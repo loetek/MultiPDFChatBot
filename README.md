@@ -13,3 +13,9 @@ Key Topics Covered:
 - Optimizing your chatbot for efficient and accurate responses
 - Best practices for leveraging open-source GPT models, including GPT-3.5 and GPT-4
 - Unlocking the potential of ChatGPT and LangChain to create innovative applications
+
+
+## Technology used in building this application
+ - Python
+ - LangChain
+ - ChatGPT API
